@@ -1,4 +1,4 @@
-
+import "./style.css";
 
 // EXPENSE TRACKER
 // JavaScript + LocalStorage
